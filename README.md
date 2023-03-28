@@ -1,2 +1,2 @@
 # Pertemuan_5
-tugas Subprogram mengenai JumPrima
+ subprogram bentuk fungsi dan prosedur dari soal terlampir (JumPrima).
